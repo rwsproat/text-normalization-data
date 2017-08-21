@@ -1,4 +1,7 @@
 # text-normalization-data
+
+[Unfortunately as I just discovered, somebody broke something and none of the links are working right now. I am working on fixing this.]
+
 Links to data used in Sproat &amp; Jaitly (https://arxiv.org/abs/1611.00068) experiments.
 
 The data is all on Google storage:
