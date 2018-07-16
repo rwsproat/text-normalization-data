@@ -16,3 +16,4 @@ https://storage.googleapis.com/text-normalization/ru_with_types.tgz
 
 https://storage.googleapis.com/text-normalization/pl_with_types.tgz
 
+Data splits can be obtained using the script split.sh
