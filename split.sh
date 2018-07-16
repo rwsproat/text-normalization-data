@@ -1,6 +1,6 @@
 #!/bin/bash
 # The following script can be used to create the training-developing-testing
-# splits used in Zhang et al. (in press):
+# splits used in Zhang et al. (submitted):
 #
 # "In most experiments we train using the first file for English (about 10
 # million tokens) and the first four files for Russian (about 11 million
