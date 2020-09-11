@@ -6,4 +6,4 @@ The data is hosted by Kaggle:
 
 https://www.kaggle.com/richardwilliamsproat/text-normalization-for-english-russian-and-polish?select=en_with_types.tgz
 
-Data splits can be obtained using the script split.sh availablel here.
+Data splits can be obtained using the script split.sh available here.
