@@ -4,6 +4,6 @@ Links to data used in Sproat &amp; Jaitly (https://arxiv.org/abs/1611.00068) exp
 
 The data is hosted by Kaggle:
 
-https://www.kaggle.com/richardwilliamsproat/text-normalization-for-english-russian-and-polish?select=en_with_types.tgz
+https://www.kaggle.com/richardwilliamsproat/text-normalization-for-english-russian-and-polish
 
 Data splits can be obtained using the script split.sh available here.
