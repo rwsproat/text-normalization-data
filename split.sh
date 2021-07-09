@@ -30,7 +30,7 @@ wc -l training development evaluation
 cd ../ru_with_types
 cp output-00000-of-00100 training &
 cat output-0009[0-4]-of-00100 > development &
-head -10007 output-00099-of-00100 > evaluation &
+head -100007 output-00099-of-00100 > evaluation &
 wait
 echo "Russian:"
 wc -l training development evaluation
